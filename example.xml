@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<VanDyke version="3.0">
+	<key name="Sessions">
+		<key name="switch1.bspendlove.github.io">
+			<string name="Hostname">192.168.0.252</string>
+		</key>
+		<key name="switch2.bspendlove.github.io">
+			<string name="Hostname">192.168.0.253</string>
+		</key>
+	</key>
+</VanDyke>
+
