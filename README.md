@@ -7,7 +7,7 @@ There is no filtering in place currently so all devices will be imported whether
 ### Installation
 
 Simply install the requirements
-```console
+```python
 pip install -r requirements.txt
 ```
 
@@ -19,7 +19,7 @@ NETBOX_API_KEY=01j3ij2i3ji289du923u9089rh
 ```
 
 and Run the script:
-```
+```console
 .\generate.py
 or
 python .\generate.py
